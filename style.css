@@ -1,0 +1,115 @@
+body {
+    margin: 0%;
+    max-width: 1920px;
+    width: 100%;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    padding: 0%;
+    overflow-x: hidden;
+}
+
+#navbar {
+    vertical-align: middle;
+    width: 1140px;
+    padding: 12px 80px;
+}
+
+#fullLogo {
+    display: inline-block;
+}
+
+#imageLogo {
+    display: inline-block;
+    padding: 13px;
+    vertical-align: middle;
+}
+
+#textLogo {
+    text-decoration: none;
+    color: #000;
+    display: inline-block;
+    font-size: 24px;
+    vertical-align: middle;
+}
+
+#navLinks {
+    width: 343px;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 175px;
+}
+
+#contactButton {
+    text-decoration: none;
+    color: #AC00FF;
+    padding: 8px 16px;
+    border: solid #AC00FF;
+    border-radius: 8px;
+    background-color: #E9D7FE;
+    margin-left: 175px;
+}
+
+#product,
+#services,
+#resources,
+#offers {
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: none;
+    margin-left: 20px;
+    color: #323232;
+}
+
+#bigTextContainer {
+    width: 841px;
+    margin-top: 136px;
+    margin-left: 214px;
+}
+
+#simpleTextContainer {
+    max-width: 720px;
+    width: 100%;
+    font-size: 64px;
+    font-family: Impact;
+}
+
+#moMoneyContainer {
+    color: #323232;
+    font-size: 24px;
+    font-family: "Inria Sans";
+    width: 100%;
+    margin-top: 24px;
+}
+
+#twoButton {
+    margin-top: 24px;
+}
+
+#joinButton {
+    width: 204px;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #5C3BAE;
+    color: #FFF;
+    font-size: 18px;
+    text-align: center;
+    display: inline-block;
+}
+
+#watchLogo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 24px;
+}
+
+#watchVideoText {
+    max-width: 150px;
+    width: 100%;
+    font-size: 18px;
+    margin-left: 12px;
+}
+
+#cardsImage {
+    margin-left: auto;
+}
